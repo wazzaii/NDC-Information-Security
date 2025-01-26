@@ -20,14 +20,16 @@ Additional resources for presentations can be found in the `./presentations` dir
 If you have suggestions for improving the organization, don't hesitate to open an issue with your proposal!
 
 ## Contributing
-We welcome contributions! To add your notes or resources:
+We welcome contributions! 
+To add your notes or resources:
 1. Fork the repository.
 2. Add your contributions.
 3. Open a pull request.
 
-If you want to contribute and would like further guidance, you can:
-- Open an issue and mention @wazzaii (Guillaume Deslandes). He should respond within 8-12 hours.
-- Message Guillaume Deslandes on Teams. Note that responses may take longer via this method.
+If you would like to become a collaborator on this project, you can : 
+- Open an issue an request to become a collaborator
+- Message Guillaume Deslandes on Team (might take a day or two)
+
 
 ### File Formats
 - **Plain text files** (e.g., `.txt`, `.md`) are recommended for easy readability.

@@ -27,7 +27,7 @@ To add your notes or resources:
 3. Open a pull request.
 
 If you would like to become a collaborator on this project, you can : 
-- Open an issue an request to become a collaborator
+- Open an issue and request to become a collaborator
 - Message Guillaume Deslandes on Team (might take a day or two)
 
 
